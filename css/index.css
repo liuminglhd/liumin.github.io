@@ -24,7 +24,7 @@ ul,li{list-style:none;}
 }
 /* 样式 */
 body{
-	background: url("../images/background1.jpg") no-repeat;
+	background: url("../images/background.jpg") no-repeat;
 	position: fixed;
 	width: 100%;
 }
